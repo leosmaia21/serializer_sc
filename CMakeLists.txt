@@ -1,13 +1,14 @@
 
 cmake_minimum_required(VERSION 3.10)
-project(TopLevelProject VERSION 1.0)
+project(serializer)
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 # Add the SystemC folder (if you want to build it from source)
 add_subdirectory(systemc)
 
 # Add your project folder
-add_subdirectory(serializer)
+add_subdirectory(src)
+
 if(CMAKE_EXPORT_COMPILE_COMMANDS)
     add_custom_target(copy_compile_commands ALL
         COMMAND ${CMAKE_COMMAND} -E copy_if_different
