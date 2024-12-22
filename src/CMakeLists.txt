@@ -6,7 +6,7 @@ message("Subproject name: ${CMAKE_PROJECT_NAME}")
 
 # Add your executable target
 
-add_executable(${CMAKE_PROJECT_NAME} src/main.cpp)
+add_executable(${CMAKE_PROJECT_NAME} main.cpp)
 
 target_include_directories(${CMAKE_PROJECT_NAME} PUBLIC ${PROJECT_SOURCE_DIR}/../systemc/include )
 
