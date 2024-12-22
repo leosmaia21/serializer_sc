@@ -1,0 +1,432 @@
+[
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/communication/sc_clock.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_clock.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_clock.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/communication/sc_event_finder.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_event_finder.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_event_finder.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/communication/sc_event_queue.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_event_queue.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_event_queue.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/communication/sc_export.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_export.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_export.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/communication/sc_interface.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_interface.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_interface.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/communication/sc_mutex.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_mutex.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_mutex.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/communication/sc_port.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_port.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_port.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/communication/sc_prim_channel.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_prim_channel.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_prim_channel.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/communication/sc_semaphore.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_semaphore.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_semaphore.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/communication/sc_signal.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_signal.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_signal.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/communication/sc_signal_ports.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_signal_ports.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_signal_ports.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/communication/sc_signal_resolved.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_signal_resolved.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_signal_resolved.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/communication/sc_signal_resolved_ports.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_signal_resolved_ports.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/communication/sc_signal_resolved_ports.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/bit/sc_bit.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/bit/sc_bit.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/bit/sc_bit.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/bit/sc_bv_base.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/bit/sc_bv_base.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/bit/sc_bv_base.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/bit/sc_logic.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/bit/sc_logic.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/bit/sc_logic.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/bit/sc_lv_base.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/bit/sc_lv_base.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/bit/sc_lv_base.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/fx/sc_fxcast_switch.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/sc_fxcast_switch.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/sc_fxcast_switch.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/fx/sc_fxdefs.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/sc_fxdefs.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/sc_fxdefs.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/fx/sc_fxnum.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/sc_fxnum.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/sc_fxnum.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/fx/sc_fxnum_observer.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/sc_fxnum_observer.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/sc_fxnum_observer.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/fx/sc_fxtype_params.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/sc_fxtype_params.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/sc_fxtype_params.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/fx/sc_fxval.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/sc_fxval.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/sc_fxval.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/fx/sc_fxval_observer.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/sc_fxval_observer.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/sc_fxval_observer.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/fx/scfx_mant.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/scfx_mant.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/scfx_mant.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/fx/scfx_pow10.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/scfx_pow10.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/scfx_pow10.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/fx/scfx_rep.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/scfx_rep.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/scfx_rep.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/fx/scfx_utils.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/scfx_utils.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/fx/scfx_utils.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/int/sc_int64_io.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/int/sc_int64_io.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/int/sc_int64_io.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/int/sc_int64_mask.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/int/sc_int64_mask.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/int/sc_int64_mask.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/int/sc_int_base.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/int/sc_int_base.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/int/sc_int_base.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/int/sc_length_param.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/int/sc_length_param.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/int/sc_length_param.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/int/sc_nbutils.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/int/sc_nbutils.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/int/sc_nbutils.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/int/sc_signed.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/int/sc_signed.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/int/sc_signed.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/int/sc_uint_base.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/int/sc_uint_base.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/int/sc_uint_base.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/int/sc_unsigned.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/int/sc_unsigned.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/int/sc_unsigned.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/datatypes/misc/sc_value_base.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/datatypes/misc/sc_value_base.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/datatypes/misc/sc_value_base.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_attribute.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_attribute.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_attribute.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_cor_fiber.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_cor_fiber.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_cor_fiber.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_cor_pthread.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_cor_pthread.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_cor_pthread.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_cor_qt.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_cor_qt.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_cor_qt.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_cthread_process.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_cthread_process.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_cthread_process.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_event.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_event.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_event.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_except.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_except.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_except.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_join.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_join.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_join.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_method_process.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_method_process.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_method_process.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_module.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_module.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_module.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_module_name.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_module_name.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_module_name.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_module_registry.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_module_registry.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_module_registry.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_name_gen.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_name_gen.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_name_gen.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_object.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_object.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_object.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_object_manager.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_object_manager.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_object_manager.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_stage_callback_registry.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_stage_callback_registry.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_stage_callback_registry.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_process.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_process.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_process.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_reset.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_reset.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_reset.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_sensitive.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_sensitive.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_sensitive.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_simcontext.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_simcontext.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_simcontext.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_spawn_options.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_spawn_options.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_spawn_options.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_thread_process.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_thread_process.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_thread_process.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_time.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_time.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_time.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_ver.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_ver.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_ver.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_wait.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_wait.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_wait.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_wait_cthread.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_wait_cthread.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_wait_cthread.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/tracing/sc_trace.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/tracing/sc_trace.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/tracing/sc_trace.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/tracing/sc_trace_file_base.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/tracing/sc_trace_file_base.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/tracing/sc_trace_file_base.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/tracing/sc_vcd_trace.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/tracing/sc_vcd_trace.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/tracing/sc_vcd_trace.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/tracing/sc_wif_trace.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/tracing/sc_wif_trace.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/tracing/sc_wif_trace.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/utils/sc_hash.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/utils/sc_hash.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/utils/sc_hash.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/utils/sc_list.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/utils/sc_list.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/utils/sc_list.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/utils/sc_mempool.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/utils/sc_mempool.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/utils/sc_mempool.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/utils/sc_pq.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/utils/sc_pq.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/utils/sc_pq.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/utils/sc_report.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/utils/sc_report.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/utils/sc_report.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/utils/sc_report_handler.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/utils/sc_report_handler.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/utils/sc_report_handler.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/utils/sc_stop_here.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/utils/sc_stop_here.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/utils/sc_stop_here.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/utils/sc_utils_ids.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/utils/sc_utils_ids.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/utils/sc_utils_ids.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/utils/sc_vector.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/utils/sc_vector.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/utils/sc_vector.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/tlm_core/tlm_2/tlm_generic_payload/tlm_gp.cpp.o -c /home/lmaia/serializer_sc/systemc/src/tlm_core/tlm_2/tlm_generic_payload/tlm_gp.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/tlm_core/tlm_2/tlm_generic_payload/tlm_gp.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/tlm_core/tlm_2/tlm_generic_payload/tlm_phase.cpp.o -c /home/lmaia/serializer_sc/systemc/src/tlm_core/tlm_2/tlm_generic_payload/tlm_phase.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/tlm_core/tlm_2/tlm_generic_payload/tlm_phase.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/tlm_core/tlm_2/tlm_quantum/tlm_global_quantum.cpp.o -c /home/lmaia/serializer_sc/systemc/src/tlm_core/tlm_2/tlm_quantum/tlm_global_quantum.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/tlm_core/tlm_2/tlm_quantum/tlm_global_quantum.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/tlm_utils/convenience_socket_bases.cpp.o -c /home/lmaia/serializer_sc/systemc/src/tlm_utils/convenience_socket_bases.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/tlm_utils/convenience_socket_bases.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/tlm_utils/instance_specific_extensions.cpp.o -c /home/lmaia/serializer_sc/systemc/src/tlm_utils/instance_specific_extensions.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/tlm_utils/instance_specific_extensions.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/cc -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/packages/qt/qt.c.o -c /home/lmaia/serializer_sc/systemc/src/sysc/packages/qt/qt.c",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/packages/qt/qt.c"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/cc -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -xassembler-with-cpp -o CMakeFiles/systemc.dir/sysc/packages/qt/md/iX86_64.s.o -c /home/lmaia/serializer_sc/systemc/src/sysc/packages/qt/md/iX86_64.s",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/packages/qt/md/iX86_64.s"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_main.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_main.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_main.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/systemc/src",
+  "command": "/usr/bin/c++ -DSC_BUILD -DSC_ENABLE_ASSERTIONS -DSC_INCLUDE_FX -Dsystemc_EXPORTS -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -fPIC -Wall -Wextra -Wno-unused-parameter -Wno-unused-variable -o CMakeFiles/systemc.dir/sysc/kernel/sc_main_main.cpp.o -c /home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_main_main.cpp",
+  "file": "/home/lmaia/serializer_sc/systemc/src/sysc/kernel/sc_main_main.cpp"
+},
+{
+  "directory": "/home/lmaia/serializer_sc/build/serializer",
+  "command": "/usr/bin/c++  -I/home/lmaia/serializer_sc/serializer/../systemc/include -I/home/lmaia/serializer_sc/systemc/src -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/myProject.dir/src/main.cpp.o -c /home/lmaia/serializer_sc/serializer/src/main.cpp",
+  "file": "/home/lmaia/serializer_sc/serializer/src/main.cpp"
+}
+]
