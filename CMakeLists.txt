@@ -3,6 +3,7 @@ cmake_minimum_required(VERSION 3.10)
 project(serializer)
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+set(CMAKE_CXX_FLAGS  "-march=x86-64")
 # Add the SystemC folder (if you want to build it from source)
 add_subdirectory(systemc)
 
